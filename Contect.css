@@ -1,0 +1,39 @@
+.contactform{
+    padding: 0 134px;
+}
+.contactform h1{
+    text-align: center;
+    margin-top:100px;
+}
+.contactform form-group div{
+    padding: 10px 0;
+    display: flex;
+    float: column;
+}
+.contactform div input {
+    width: 30vw;
+    border-radius: 8px;
+    padding: 10px 0;
+    display: flex;
+    float: column;
+} 
+
+#Help{
+    font-size: 10px;
+    margin:0 5px;
+    color:midnightblue;
+}
+.btn{
+    margin-top:13px;
+    background-color: rgb(62, 166, 226);
+    border-radius: 13px;
+    padding: 8px;
+    
+
+}
+.btn:hover {
+    background-color: white;
+}
+form{
+    padding: 50px;
+}
